@@ -1,0 +1,10 @@
+{
+  "description": "KV Rao International Foundation (KVRI) \u2014 building sustainable futures in rural India through healthcare, education, sanitation, farmer empowerment and sustainable agriculture.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
